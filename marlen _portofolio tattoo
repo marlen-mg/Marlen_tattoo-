@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="el">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Marlen Tattoo Art</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #0d0d0d;
+      color: #f5f5f5;
+    }
+    header {
+      background-color: #1a1a1a;
+      padding: 2rem;
+      text-align: center;
+    }
+    header h1 {
+      color: #d4af37;
+      font-size: 2.5rem;
+      margin: 0;
+    }
+    header p {
+      font-size: 1.2rem;
+      margin-top: 0.5rem;
+    }
+    nav {
+      margin-top: 1rem;
+    }
+    nav a {
+      color: #d4af37;
+      margin: 0 1rem;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      padding: 2rem;
+      max-width: 900px;
+      margin: auto;
+    }
+    .portfolio-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 1.5rem;
+    }
+    .portfolio-grid img {
+      width: 100%;
+      border: 2px solid #d4af37;
+      border-radius: 8px;
+    }
+    footer {
+      background-color: #1a1a1a;
+      text-align: center;
+      padding: 1rem;
+      color: #999;
+    }
+    a.button {
+      display: inline-block;
+      margin-top: 1rem;
+      padding: 0.5rem 1rem;
+      background-color: #d4af37;
+      color: #0d0d0d;
+      text-decoration: none;
+      border-radius: 4px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Mar
+
+Πολύ ωραία ερώτηση! Υπάρχουν μερικοί εύκολοι τρόποι να ανεβάσεις και να δεις την ιστοσελίδα σου με τον κώδικα HTML. Εδώ είναι τα βασικά βήματα:
+
+---
+
+### **1. Άνοιξε το αρχείο τοπικά στον υπολογιστή σου**
+Αν θες να δεις την ιστοσελίδα μόνο εσύ:
+
+- Άνοιξε το **Σημειωματάριο (Notepad)** ή άλλο text editor (π.χ. VS Code, Sublime Text).
+- Κάνε **επικόλληση** τον κώδικα που θα σου δώσω.
+- Πήγαινε στο **"Αρχείο" → "Αποθήκευση ως"**.
+- Ονόμασέ το π.χ. `index.html` και επίλεξε **"Όλοι οι τύποι αρχείων"**.
+- Διπλό κλικ στο αρχείο – θα ανοίξει στον browser σου σαν ιστοσελίδα.
+
+---
+
+### **2. Ανέβασέ το online**
+Αν θες να το δει και άλλος κόσμος:
+
+- **Δωρεάν επιλογή:**
+  - Πήγαινε στο [https://pages.github.com](https://pages.github.com) και ακολούθησε τις οδηγίες για να ανεβάσεις την HTML σου.
+  - Ή χρησιμοποίησε έναν δωρεάν HTML host όπως:
+    - [Netlify](https://www.netlify.com/)
+    - [Vercel](https://vercel.com/)
+    - [Neocities](https://neocities.org/)
+
+- **Προσωπικό domain/site:**
+  - Αγόρασε domain & hosting (π.χ. από papaki, GoDaddy, Namecheap) και ανέβασε το αρχείο σου μέσω FTP ή του πίνακα ελέγχου.
+
+---
+
+**Θες να σου δώσω τον κώδικα τώρα ως αρχείο `.html` έτοιμο για αποθήκευση ή να στον δείξω πρώτα εδώ;**
